@@ -10,6 +10,9 @@ Project homepage:
 Team project page:  
 `https://obi.kean.edu/~tangyua@kean.edu/CPS3525/project3.html`
 
+CGI endpoint:
+`https://obi.kean.edu/~tangyua@kean.edu/cgi-bin/CPS3525/maze.cgi`
+
 ---
 
 ## Project Overview
